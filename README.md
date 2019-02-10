@@ -1,4 +1,4 @@
-# Basic BDD Cucumber
+# 1.Basic BDD Cucumber
 Basic BDD and Cucumber for beginners can get acquainted 
 
 ## Why we should use BDD, instead of TDD ?
@@ -17,7 +17,7 @@ TDD
 
 Example: https://github.com/josdoaitran/SerenityBDDFW
 
-# Gherkin language
+# 2. Gherkin language
 
 Syntax: GIVEN - WHEN - THEN
 
