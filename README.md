@@ -7,3 +7,4 @@ Basic BDD and Cucumber for beginners can get acquainted
 
 Syntax: GIVEN - WHEN - THEN
 
+The lines in Gherkin language begin with `speacial keyword: GIVEN WHEN THEN AND `
